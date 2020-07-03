@@ -1,0 +1,11 @@
+
+
+1. install = npm i -g yo
+2. install = npm i -g generator-code
+3. start install package = yo code
+4. to start the package type = code (and the name of the package)
+5. install package manager = npm install -g vsce 
+6. save package = vsce package
+7. upload the file to = https://marketplace.visualstudio.com/manage
+
+
