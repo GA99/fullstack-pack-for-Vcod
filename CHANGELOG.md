@@ -1,6 +1,6 @@
 # Updates
 
-- 0.0.8
+- 0.0.10
 
 * (2020-06-29)
 * added "html tag wrapper" expentsion
