@@ -2,7 +2,7 @@
 	"name": "fullstack-pack",
 	"displayName": "Fullstack Pack",
 	"description": "This Pack For Fullstack Development",
-	"version": "0.0.10",
+	"version": "0.0.11",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
