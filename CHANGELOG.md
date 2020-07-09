@@ -1,13 +1,15 @@
 # Updates
 
-0.0.12 \* added DotENV extension
+- 0.0.12 added DotENV extension
 
-- 0.0.10
+- 0.0.11 bug fix
 
-* (2020-06-29)
-* added "html tag wrapper" expentsion
+* 0.0.10
 
-- 0.0.7
+- (2020-06-29)
+- added "html tag wrapper" expentsion
 
-* (2020-06-28)
-* ready for install after fixed
+* 0.0.7
+
+- (2020-06-28)
+- ready for install after fixed
