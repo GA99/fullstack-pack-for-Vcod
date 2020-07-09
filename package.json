@@ -37,6 +37,7 @@
 		"esbenp.prettier-vscode",
 		"vscode-icons-team.vscode-icons",
 		"hwencc.html-tag-wrapper",
-		"PKief.material-icon-theme"
+		"PKief.material-icon-theme",
+		"mikestead.dotenv"
 	]
 }

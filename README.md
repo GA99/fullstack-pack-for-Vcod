@@ -29,3 +29,5 @@ now every time you save the file its will make auto fix for your CODE
 - Prettier - Code formatter
 - Material Icon Theme
 - html tag wrapper
+* DotENV
+
