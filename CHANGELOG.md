@@ -1,5 +1,7 @@
 # Updates
 
+0.0.12 \* added DotENV extension
+
 - 0.0.10
 
 * (2020-06-29)
