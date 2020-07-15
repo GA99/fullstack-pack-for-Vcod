@@ -23,8 +23,9 @@ now every time you save the file its will make auto fix for your CODE
 - JavaScript (ES6) code snippets
 - Live Server
 - Node Require
-* Path Intellisense
-* Prettier - Code formatter
-* Material Icon Theme
-* html tag wrapper
+- Path Intellisense
+- Prettier - Code formatter
+- Material Icon Theme
+- html tag wrapper
 - DotENV
+- EJS language support

@@ -2,7 +2,7 @@
 	"name": "fullstack-pack",
 	"displayName": "Fullstack Pack",
 	"description": "This Pack For Fullstack Development",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
@@ -40,6 +40,7 @@
 		"vscode-icons-team.vscode-icons",
 		"hwencc.html-tag-wrapper",
 		"PKief.material-icon-theme",
-		"mikestead.dotenv"
+		"mikestead.dotenv",
+		"DigitalBrainstem.javascript-ejs-support"
 	]
 }
