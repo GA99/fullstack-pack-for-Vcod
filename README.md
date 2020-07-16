@@ -15,9 +15,7 @@ now every time you save the file its will make auto fix for your CODE
 - Auto Correct
 - Auto Rename Tag
 - Bracket Pair Colorizer
-- CSS Peek
 - ESLint
-- Format in context menus
 - HTML Snippets
 - IntelliSense for CSS class names in HTML
 - JavaScript (ES6) code snippets
@@ -29,3 +27,5 @@ now every time you save the file its will make auto fix for your CODE
 - html tag wrapper
 - DotENV
 - EJS language support
+- Auto Import - ES6, TS, JSX, TSX
+- ES7 React/Redux/GraphQL/React-Native snippets

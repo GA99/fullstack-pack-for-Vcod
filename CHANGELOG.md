@@ -1,6 +1,6 @@
 # Updates
 
-- 0.0.14 added Auto Import - ES6, TS, JSX, TSX / ES7 React/Redux/GraphQL/React-Native snippets
+- 0.0.14 added Auto Import - ES6, TS, JSX, TSX + ES7 React/Redux/GraphQL/React-Native snippets
 
 * 0.0.13 added EJS language support
 
