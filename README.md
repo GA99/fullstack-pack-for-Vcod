@@ -16,7 +16,6 @@ now every time you save the file its will make auto fix for your CODE
 - Auto Rename Tag
 - Bracket Pair Colorizer
 - ESLint
-- HTML Snippets
 - IntelliSense for CSS class names in HTML
 - JavaScript (ES6) code snippets
 - Live Server
