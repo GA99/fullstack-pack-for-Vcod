@@ -1,5 +1,7 @@
 # Updates
 
+- 1.0.0 added package - Terminal
+
 - 0.0.15 update package - disable vsc icon pack
 
 * 0.0.14 added Auto Import - ES6, TS, JSX, TSX + ES7 React/Redux/GraphQL/React-Native snippets

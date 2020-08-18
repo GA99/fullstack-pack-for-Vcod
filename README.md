@@ -28,3 +28,4 @@ now every time you save the file its will make auto fix for your CODE
 - EJS language support
 - Auto Import - ES6, TS, JSX, TSX
 - ES7 React/Redux/GraphQL/React-Native snippets
+- Terminal
